@@ -8,6 +8,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 
 
 **Computer Networks**
+![](https://i.gifer.com/5VsC.gif)
 
 - **Network** : A network is a set of devices that are connected with a physical media link. In a network, two or more nodes are connected by a physical link or two or more networks are connected by one or more nodes. A network is a collection of devices connected to each other to allow the sharing of data.
 - **Network Topology** : Network topology specifies the layout of a computer network. It shows how devices and cables are connected to each other.
