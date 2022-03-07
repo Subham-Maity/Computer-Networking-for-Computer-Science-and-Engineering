@@ -5,8 +5,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 # [We Are Follow this cheatsheet](https://whimsical.com/networking-cheatsheet-7osSXnXJFCtv6SJ3ygs1DE)
 
 
-* [What is networks](**Network**)
-* [What is networks](**Types of Network Topology**)
+
 
 **Computer Networks**
 
