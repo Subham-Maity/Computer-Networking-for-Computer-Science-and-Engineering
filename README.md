@@ -10,7 +10,20 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 **Computer Networks**
 ![](https://i.gifer.com/5VsC.gif)
 
-- **Network** : A network is a set of devices that are connected with a physical media link. In a network, two or more nodes are connected by a physical link or two or more networks are connected by one or more nodes. A network is a collection of devices connected to each other to allow the sharing of data.
+- **Network** : A computer network is a system that connects numerous independent computers in order to share information (data) and resources. The integration of computers and other different devices allows users to communicate more easily.
+A computer network is a collection of two or more computer systems that are linked together. A network connection can be established using either cable or wireless media. Hardware and software are used to connect computers and tools in any network.
+A computer network consists of various kinds of nodes. Servers, networking hardware, personal computers, and other specialized or general-purpose hosts can all be nodes in a computer network. Hostnames and network addresses are used to identify them.
+Goal Of Networking:
+- **Ring** :
+1. Programs do not have to execute on a single system because of resource and load sharing.
+1. Reduced costs – Multiple machines can share printers, tape drives, and other peripherals.
+1. Reliability – If one machine fails, another can take its place.
+1. Scalability (it’s simple to add more processors or computers)
+1. Communication and mail (people living apart can work together)
+1. Information Access (remote information access, access to the internet, e-mail, video conferencing, and online shopping)
+1. Entertainment that is interactive (online games, videos, etc.)
+1. Social Networking
+
 - **Network Topology** : Network topology specifies the layout of a computer network. It shows how devices and cables are connected to each other.
 
 **Types of Network Topology** :
